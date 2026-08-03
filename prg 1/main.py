@@ -3,8 +3,8 @@ def gcd(a:int, b:int)->int:
         a,b = b, a%b
     return a
 
-num1 = int(input("Enter first number"))
-num2 = int(input("Enter second number"))
+num1 = int(input("Enter first number "))
+num2 = int(input("Enter second number "))
 
 res = gcd(num1,num2)
 
