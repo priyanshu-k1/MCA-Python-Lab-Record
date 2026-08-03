@@ -1,4 +1,9 @@
+"""
+Program to find GCD of 2 Positive Numbers 
+"""
 def gcd(a:int, b:int)->int:
+    if a < 0 or b < 0:
+        return None
     while b:
         a,b = b, a%b
     return a
