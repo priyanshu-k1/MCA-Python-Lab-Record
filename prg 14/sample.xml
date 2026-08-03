@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <id>101</id>
+        <name>Kumar</name>
+        <score>95</score>
+    </item>
+    <item>
+        <id>102</id>
+        <name>Praveen</name>
+        <score></score>
+    </item>
+    <item>
+        <id>103</id>
+        <name></name>
+        <score>88</score>
+    </item>
+    <item>
+        <id>104</id>
+        <name>Rakesh</name>
+        <score>72</score>
+    </item>
+</data>
